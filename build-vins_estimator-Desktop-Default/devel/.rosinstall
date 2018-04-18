@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jinmuyan/catkin_ws/src/VINS-Mono/build-vins_estimator-Desktop-Default/devel/setup.sh

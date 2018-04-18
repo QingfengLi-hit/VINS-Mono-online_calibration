@@ -1,0 +1,8 @@
+prefix=/home/jinmuyan/catkin_ws/src/VINS-Mono/build-feature_tracker-Desktop-Default/devel
+
+Name: feature_tracker
+Description: Description of feature_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinmuyan/catkin_ws/src/VINS-Mono/build-feature_tracker-Desktop-Default/devel/lib 
+Requires: 

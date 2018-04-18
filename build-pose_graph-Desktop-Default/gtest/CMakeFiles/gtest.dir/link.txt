@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -O3 -Wall -g   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/jinmuyan/catkin_ws/src/VINS-Mono/build-pose_graph-Desktop-Default/gtest/src -lpthread -Wl,-rpath,/home/jinmuyan/catkin_ws/src/VINS-Mono/build-pose_graph-Desktop-Default/gtest/src 

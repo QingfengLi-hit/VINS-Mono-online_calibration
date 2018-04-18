@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jinmuyan/catkin_ws/src/VINS-Mono/build-pose_graph-Desktop-Default/devel/setup.sh

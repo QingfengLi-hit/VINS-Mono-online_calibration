@@ -1,0 +1,8 @@
+prefix=/home/jinmuyan/catkin_ws/src/VINS-Mono/build-pose_graph-Desktop-Default/devel
+
+Name: pose_graph
+Description: Description of pose_graph
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinmuyan/catkin_ws/src/VINS-Mono/build-pose_graph-Desktop-Default/devel/lib 
+Requires: 

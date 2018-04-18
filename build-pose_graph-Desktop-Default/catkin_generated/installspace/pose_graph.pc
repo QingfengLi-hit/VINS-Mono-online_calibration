@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pose_graph
+Description: Description of pose_graph
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

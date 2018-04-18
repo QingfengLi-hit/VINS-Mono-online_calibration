@@ -1,0 +1,8 @@
+prefix=/home/jinmuyan/catkin_ws/src/VINS-Mono/build-vins_estimator-Desktop-Default/devel
+
+Name: vins_estimator
+Description: Description of vins_estimator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinmuyan/catkin_ws/src/VINS-Mono/build-vins_estimator-Desktop-Default/devel/lib 
+Requires: 
